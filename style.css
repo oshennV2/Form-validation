@@ -1,0 +1,102 @@
+
+body{
+    display: flex;
+   margin: 0;
+   padding: 0; 
+   height: 100%;  
+}
+
+html{
+    margin: 0;
+    height: 100%;
+}
+h1{
+    font-family: sans-serif;
+}
+
+#wapper,img{
+    padding-right: 280px;
+    width: 100%;
+    height: 100%;
+   
+
+}
+
+.logo{
+    font-family: cursive;
+    bottom:10px;
+    color:white;
+    background-color: rgba(230, 14, 14, 0.13);
+    width: 100%;
+
+
+}
+
+
+.text{
+    padding-left: 50px;
+    margin-bottom: 50px;
+    margin-top: 60px;
+}
+
+.box-val{
+    display: flex;
+}
+.box-form{
+    background-color: white;
+    padding: 5px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(238, 232, 232);
+    padding-top: 100px;
+
+}
+
+button{
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: larger;
+    border-radius: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top:10px;
+    padding-bottom:10px;
+    background-color:#596D48;
+    color:white;
+    font-weight: bold;
+
+}
+
+#diff-text{
+    margin-left: 50px;
+    font-family: sans-serif;
+}
+
+.box-listtwo{
+    margin-left: 60px;
+}
+label{
+    font-family: sans-serif;
+    color:rgb(63, 61, 61);
+    font-size: 11px;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}
+
+input{
+    margin-bottom: 10px;
+    font-family: sans-serif;
+}
+
+form{
+    margin-bottom: 200px;
+}
